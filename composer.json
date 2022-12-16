@@ -1,5 +1,5 @@
 {
-  "name" : "unreal4u/dummy-logger",
+  "name" : "xitara/dummy-logger",
   "description" : "Dummy logger that implements PSR-3 so that my own classes can work with a common base",
   "require" : {
     "php" : ">=7.0.0",
